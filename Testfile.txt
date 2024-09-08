@@ -2,3 +2,6 @@
 This is the test file added by userA
 
 Adding another line.
+
+Adding a new line.
+
