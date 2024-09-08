@@ -1,2 +1,4 @@
 #Test file
 This is the test file added by userA
+
+Adding another line.
